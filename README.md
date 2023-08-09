@@ -37,3 +37,19 @@ https://pwnstonetraining.rnd.huawei.com/#/home
 It’s a CTF Challenge coming from https://lactf.uclaacm.com/, Base URL is https://my-chemical-romance.lac.tf/
 
 genymotion
+
+Ghidra
+IDApython
+
+https://month.ctf.huawei.com/ctf.php/
+
+http://ctf.ssleye.com/
+微步
+
+https://sectraining.rnd.huawei.com/index.php/Book/lists
+
+https://pwnstonetraining.rnd.huawei.com/#/home
+
+It’s a CTF Challenge coming from https://lactf.uclaacm.com/, Base URL is https://my-chemical-romance.lac.tf/
+
+genymotion
